@@ -1,0 +1,13 @@
+li {margin-bottom: 0.5em}
+.datacontainer {display: inline; border: 1px 0 1px 1px solid black; padding: 0.5em; text-align: center}
+ul {list-style-type: none}
+.row {}
+#entete {border: solid thin black; display: flex; align-content: center}
+div {padding: 1em;}
+aside {border: solid thin black; padding: 1em;}
+img {max-width: 200px; max-height: 250px;}
+#lien {border: thin solid black; align-self: flex-end; float: left}
+#desc {display: flex; justify-content: space-between; flex-direction: column; height: 150px}
+#titre {font-size: 64px; text-align: center; font-weight: bolder;}
+#synopsis {max-height: 150px; overflow: scroll; text-justify: wrap}
+a.list-group-item {background-color: red;}
